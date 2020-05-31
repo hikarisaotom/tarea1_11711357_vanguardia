@@ -1,0 +1,2 @@
+# PARA EJECUTAR EL PROYECTO UTILICE EL COMANDO. 
+java tarea1_11711357_vanguardia.Tarea1_11711357_Vanguardia
